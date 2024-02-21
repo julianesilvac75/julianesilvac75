@@ -28,4 +28,4 @@ I’m Juli, an autistic girl just trying to survive in this wild, wild world and
 
  
 
-[![Juliane Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianesilvac75&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianesilvac75&theme=tokyonight&layout=compact&hide=scss,blade)](https://github.com/anuraghazra/github-readme-stats)
+[![Juliane Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianesilvac75&show_icons=true&rank_icon=github&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianesilvac75&theme=tokyonight&layout=compact&hide=scss,blade)](https://github.com/anuraghazra/github-readme-stats)
