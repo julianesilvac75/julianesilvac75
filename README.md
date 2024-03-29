@@ -1,8 +1,8 @@
 ### Hi there 👋 
 I’m Juli, an autistic girl just trying to survive in this wild, wild world and having fun while doing it ♾️🏳️‍🌈
 
-- 📚 Currently working on my Bachelor’s degree in Software Engineering
-- 🌱 Learning Operating Systems, Python and PHP
+- 📚 Working on my Bachelor’s degree in Software Engineering
+- 🌱 Currently learning Computer Architecture, Python and PHP
 - 😄 Pronouns: she/her
 
 ##
