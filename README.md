@@ -1,6 +1,7 @@
 ### Hi there 👋 
 I’m Juli, an autistic girl just trying to survive in this wild, wild world and having fun while doing it ♾️🏳️‍🌈
 
+- 👨🏻‍💻 Customer Support Analyst @ Rock Content
 - 📚 Working on my Bachelor’s degree in Software Engineering
 - 🌱 Currently learning about Google Cloud Platform and Digital Marketing
 - 😄 Pronouns: she/her
