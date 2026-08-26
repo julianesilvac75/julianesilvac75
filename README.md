@@ -1,7 +1,6 @@
 ### Hi there 👋 
 I’m Juli, an autistic girl just trying to survive in this wild, wild world and having fun while doing it ♾️🏳️‍🌈
 
-- 📚 Working on my Bachelor’s degree in Software Engineering
 - 🌱 Currently learning about Ruby on Rails, Responsive Layouts, and SASS/SCSS
 - 😄 Pronouns: she/her
 
